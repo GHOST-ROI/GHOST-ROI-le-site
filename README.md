@@ -4,5 +4,4 @@ GHOST-ROI-le-site
 BIENVENUE!
 ==========
 
-ICI vous pouvez prendre mes affaires
-===================================
+ici vous pouvez prendre mes affaires
